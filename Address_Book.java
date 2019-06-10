@@ -75,8 +75,9 @@ public class Address_Book {
                             System.out.println(entry.getKey() + " : " + entry.getValue());
 
                         }
+                        break;
                     }
-break;
+
                 case 4:
                     System.out.println("EXIT");
                     System.exit(0);
